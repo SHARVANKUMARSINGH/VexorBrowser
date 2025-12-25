@@ -1,8 +1,6 @@
 # 🌌 NOX BROWSER
 **The High-Performance Gaming Browser built on .NET 6 & WebView2**
-
-![Nox Browser 
-
+![Nox Browser Banner](banner.png)
 ## 🚀 Features
 Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight alternative to Chrome.
 

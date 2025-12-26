@@ -12,7 +12,7 @@ Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight
 * **🏠 Custom Home Page:** Built-in "Speed Dial" with quick links to YouTube, Reddit, Twitch, and Discord.
 * **📂 Multi-Tab System:** Fully functional tab management with "Click-to-Close" convenience.
 * **🔒 Privacy Focused:** No telemetry, no tracking, just browsing.
-* **⬇️ WORKING DOWNLOAD IS HERE 
+* ⬇️ WORKING DOWNLOAD IS HERE 
 **The High-Performance Gaming Browser built on .NET 6 & WebView2**            #😔OLD **TELL ME IF ALL NEEDED WORKING DOWNLOADING FILES UPDATE IT IS BEATA 1.0**
                                                                               #🚀NEW ** 1.3 NEW ALL WORKING 
 ![Nox Browser Banner](ban.png)

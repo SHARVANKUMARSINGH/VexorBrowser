@@ -30,9 +30,7 @@ VANTA Browser is designed for speed, aesthetics, and gamers who need a lightweig
 
 **Step 3:** Double-click to launch — **no installation needed**.  
 
----
 
-### 🛡️ Optional: Verify SHA-256 (Super Simple)
 
 1. Open **Windows PowerShell**.  
 2. Go to the folder where `VANTA-Browser.exe` is:  

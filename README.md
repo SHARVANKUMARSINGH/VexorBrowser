@@ -1,9 +1,9 @@
 #VANTA BROSWER MADE FOR 
 ---
-![WIN10 Banner](WIN10LOGO.PNG)
+![WIN10 Banner](WIN10LOGO.png)
 
 
-![WIN11 Banner](WIN11LOGO.PNG)
+![WIN11 Banner](WIN11LOGO.png)
 
 
 

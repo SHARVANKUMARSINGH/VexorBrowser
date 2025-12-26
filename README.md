@@ -3,7 +3,7 @@
        #🚀NEW ** 1.3 NEW ALL WORKING 
 
                                                                             
-![Nox Browser Banner](ban.png)
+![VANTA Browser Banner](ban.png)
 
 
 
@@ -18,9 +18,9 @@ Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight
 * **🔒 Privacy Focused:** No telemetry, no tracking, just browsing.
 * **⬇️ WORKING DOWNLOAD IS HERE 
 **The High-Performance Gaming Browser built on .NET 6 & WebView2**            
-                                                                              #🚀NEW ** 1.3 NEW ALL WORKING 
-![Nox Browser Banner](ban.png)
-
+                                                                              
+## 1.3 NEW FEATURE
+*🚀NEW ** 1.3 NEW ALL WORKING 
 ## 🚀 Features
 Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight alternative to Chrome.
 

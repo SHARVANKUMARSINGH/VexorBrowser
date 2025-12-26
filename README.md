@@ -1,4 +1,4 @@
-# 🌌 VANTA Browser
+# 🌌 VANTA Browser V 1.3 NEW 12/26/2025 
 **The High-Performance Gaming Browser built on .NET 6 & WebView2**            **TELL ME IF ALL NEEDED WORKING DOWNLOADING FILES UPDATE IT IS BEATA 1.0**
   
 ![Nox Browser Banner](ban.png)

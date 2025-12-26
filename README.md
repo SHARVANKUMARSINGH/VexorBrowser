@@ -22,4 +22,4 @@ Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight
 3.  Double-click to launch.
 
 ---
-*Made with ❤️ by kyugivj*
+*Made with ❤️ by kyugivj and gemini for picture*

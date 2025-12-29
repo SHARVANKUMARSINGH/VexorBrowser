@@ -1,17 +1,17 @@
-# 🌌 VANTA Browser v1.3 (26/12/2025)
+# 🌌 VexorBrowser v1.3 (26/12/2025)
 
 > ⚡ **5-Second Start Guide:**  
 > Download → Click → Play! 🚀
 
 **The High-Performance Gaming Browser built on .NET 6 & WebView2**  
 
-![VANTA Browser Banner](ban.png)
+![VANTA Browser Banner](A.png)
 
 ---
 
 ## 🚀 Features
 
-VANTA Browser is designed for speed, aesthetics, and gamers who need a lightweight alternative to Chrome.
+Vexor Browser is designed for speed, aesthetics, and gamers who need a lightweight alternative to Chrome.
 
 * **⚡ Neon GX UI:** Stunning dark mode interface with cyan neon accents.  
 * **📉 Data Saver Mode:** Blocks images to save bandwidth and load pages faster.  
@@ -27,11 +27,11 @@ VANTA Browser is designed for speed, aesthetics, and gamers who need a lightweig
 
 **Step 1:** Go to the [GitHub Release](https://github.com/SHARVANKUMARSINGH/VANTABrowser/releases/tag/BORSWER)  
 
-**Step 2:** Download `VANTA-Browser.exe`.  
+**Step 2:** Download `Vexorbroswersetup.exe`.  
 
-**Step 3:** Double-click to launch — **no installation needed**.  
+**Step 3:** Double-click to launch and insatall
 
-> ✅ Fully working version 1.3 — all features functional.
+> ✅ Fully working version 1.3.2 — all features functional.
 
 ---
 

@@ -25,7 +25,7 @@ Vexor Browser is designed for speed, aesthetics, and gamers who need a lightweig
 
 ## 🛠️ Download & Run
 
-**Step 1:** Go to the [GitHub Release](https://github.com/SHARVANKUMARSINGH/VANTABrowser/releases/tag/BORSWER)  
+**Step 1:** Go to the ("https://github.com/SHARVANKUMARSINGH/VexorBrowser/releases/tag/Vexor")  
 
 **Step 2:** Download `Vexorbroswersetup.exe`.  
 

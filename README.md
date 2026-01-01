@@ -5,63 +5,65 @@
 
 ![Vexor Banner](https://placehold.co/600x200/101010/00ffcc?text=VEXOR+BROWSER)
 
-## 📉 Why Vexor? ( The Proof )
-I built Vexor because modern browsers like Chrome and Edge eat too much RAM, causing lag in games like **Free Fire**, **Roblox**, and **Minecraft**.
+## 📉 The Proof: Chrome vs. Vexor
+I built Vexor because modern browsers eat too much RAM. If you play **Free Fire**, **Roblox**, or **Minecraft** on a 4GB laptop, you need every bit of memory you can get.
 
-We tested Vexor against Chrome on a standard 4GB RAM Laptop. **The results speak for themselves:**
+**We tested Vexor against Chrome. Here are the real results:**
 
 | Browser | RAM Usage (Idle) | Status |
 | :--- | :--- | :--- |
 | 🔴 **Google Chrome** | **763.0 MB** | ⚠️ LAGGY |
 | 🟢 **Vexor Browser** | **14.1 MB** | 🚀 FAST |
 
-> *Vexor uses ~50x LESS RAM than Chrome, leaving more memory for your games.*
+> *Vexor uses ~50x LESS RAM than Chrome. The numbers don't lie.*
 
 ---
 
-## ⚡ Key Features
+## ⚡ Why switch to Vexor?
 
-### 🎮 Built for Gamers
-* **Ultra-Lightweight Engine:** Runs smoothly on **4GB RAM** (and even 2GB) systems.
-* **Ping Counter:** Built-in real-time latency display (ms) to check your internet health before gaming.
-* **Dark Mode:** Enabled by default to save your eyes during night sessions.
+### 🎮 1. Built for Gamers
+* **Ultra-Lightweight:** Runs on just ~15MB of RAM.
+* **Ping Counter:** See your internet latency (ms) instantly in the browser.
+* **Faster Alt-Tab:** Switch between your game and browser without freezing your PC.
 
-### 🛡️ Privacy First
-* **Zero Telemetry:** Unlike big tech browsers, Vexor sends **0 data** back to the developer.
+### 🛡️ 2. Real Privacy
+* **No Spying:** Unlike Chrome/Edge, Vexor has **Zero Telemetry**. I don't want your data.
 * **Ghost Mode:** History and cache are wiped automatically when you close the app.
-* **No Tracking:** We don't track your searches or clicks. You are invisible.
+* **Clean UI:** No random news popups or weather widgets slowing you down.
 
 ---
 
-## 📥 Download
+## 📥 Download Vexor
 
-**Current Version:** `v2.0`
-**Platform:** Windows 10 / 11 (64-bit)
+**Version:** `v2.0` (Stable)
+**OS:** Windows 10 / 11
 
 [👉 **CLICK HERE TO DOWNLOAD VEXOR v2.0**](https://github.com/SHARVANKUMARSINGH/VexorBrowser/releases/tag/2.0)
 
----
-
-## 🛠️ Installation Guide
-
-1.  Download the `Vexor.exe` or `.zip` file from the [Releases Page](https://github.com/SHARVANKUMARSINGH/VexorBrowser/releases/tag/2.0).
-2.  Extract the files (if zipped).
-3.  Double-click `Vexor.exe` to launch.
-
-### ⚠️ "Windows protected your PC" Warning?
-Because Vexor is an indie project built by one developer, I cannot afford the expensive Microsoft Digital Signature ($500+).
-**To run the app:**
-1.  Click **"More Info"**.
-2.  Click **"Run Anyway"**.
-
-*This does not mean it is a virus. It just means I am an independent coder.*
+*(Click the link above, scroll down to "Assets", and download **Vexor.exe**)*
 
 ---
 
-## 🤝 Support & Feedback
-Found a bug? Have a feature request?
-* Open an [Issue](https://github.com/SHARVANKUMARSINGH/VexorBrowser/issues) here on GitHub.
-* Star ⭐ this repo if Vexor saved your RAM!
+## ⚠️ "Windows protected your PC" Warning?
+When you open Vexor for the first time, you might see a blue screen warning.
+
+**Don't Panic. It is NOT a virus.**
+
+* **The Reason:** Microsoft charges developers **$500+ per year** for a "Digital License" to remove that warning.
+* **The Reality:** I am a solo developer making free software. I cannot afford that fee yet.
+
+**How to open Vexor:**
+1.  Click **"More Info"** (Under the text).
+2.  Click the **"Run Anyway"** button.
+
+*Once you do this, Vexor will run normally forever.*
 
 ---
-*© 2026 Vexor Browser Project. Built for the Community.*
+
+## 🤝 Feedback & Support
+Vexor is an open-source project. If you find a bug or have an idea:
+* **Report Issues:** [Click here](https://github.com/SHARVANKUMARSINGH/VexorBrowser/issues)
+* **Star the Repo:** ⭐ If Vexor saved your RAM, please give it a Star!
+
+---
+*© 2026 Vexor Browser Project. Made with ❤️ and Lua.*

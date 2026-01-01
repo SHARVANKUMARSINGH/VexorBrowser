@@ -3,7 +3,7 @@
 > **The "Chrome Killer" for Low-End PCs.**
 > *Stop the Lag. Start Gaming.*
 
-![Vexor Banner](https://placehold.co/600x200/101010/00ffcc?text=VEXOR+BROWSER)
+![Vexor Banner](A.png)
 
 ## 📉 The Proof: Chrome vs. Vexor
 I built Vexor because modern browsers eat too much RAM. If you play **Free Fire**, **Roblox**, or **Minecraft** on a 4GB laptop, you need every bit of memory you can get.

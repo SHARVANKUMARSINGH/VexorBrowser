@@ -61,7 +61,7 @@ When you open Vexor for the first time, you might see a blue screen warning.
 ---
 
 ## 🤝 Feedback & Support
-Vexor is an open-source project. If you find a bug or have an idea:
+ If you find a bug or have an idea:
 * **Report Issues:** [Click here](https://github.com/SHARVANKUMARSINGH/VexorBrowser/issues)
 * **Star the Repo:** ⭐ If Vexor saved your RAM, please give it a Star!
 
